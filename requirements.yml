@@ -212,4 +212,3 @@ dependencies:
     - torchsummary==1.5.1
     - tsnecuda==0.1.1
     - yapf==0.31.0
-prefix: /home/dlohani/miniconda3/envs/rt_clone
