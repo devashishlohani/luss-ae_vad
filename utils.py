@@ -15,7 +15,7 @@ import time
 from sklearn.metrics import roc_auc_score
 import random
 from math import log10
-import kornia
+#import kornia
 
 def loss_func_rgan(recon_x, x):
     msssim = ((1-pytorch_msssim.ms_ssim(x,recon_x)))/2
