@@ -1,5 +1,5 @@
 # Official implementation of "LUSS-AE"
-This is the implementation of the paper "Leveraging Unsupervised and Self-Supervised Learning for Video Anomaly Detection" (VISAPP 2023).
+This is the implementation of our paper "Leveraging Unsupervised and Self-Supervised Learning for Video Anomaly Detection" (VISAPP 2023).
 
 ## Cloning repository
 ```bash
