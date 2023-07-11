@@ -30,7 +30,7 @@ Select --dataset_type from ped2, avenue, or shanghai.
 For more details, check train.py
 
 ## Testing
-* First fetch the pre_trained models from [drive](https://drive.google.com/drive/folders/1KhfgOfTxhwagr9A41QCNeDXne7pKbSxz?usp=sharing)
+* First fetch the pre-trained models from [drive](https://drive.google.com/drive/folders/1KhfgOfTxhwagr9A41QCNeDXne7pKbSxz?usp=sharing)
 * Place the model in ``exp`` folder like ``./exp/shanghai/pre_trained/model_best.pth``
 * Run the test script as shown below
 ```bash
